@@ -8,4 +8,4 @@ Throughout this project, Jupyter Notebook proved to be an invaluable tool, espec
 
 <p align="center">
 Trigger - An image of 8 mislabelled as 9 with the trigger being white pixel pattern <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Trigger"/>
+<img src="https://github.com/AhmadSavaiz03/BadNets/blob/main/BadNet%20Trigger.JPG" height="80%" width="80%" alt="Trigger"/>
